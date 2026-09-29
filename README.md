@@ -1,1 +1,3 @@
-    welcome to my get home depository for exploring NIH ALL OF US RESEARCHER DATABASE. I wouldn't use my code for anything it may be wrong. I'm  just here exploring and this is where I'm keeping. 
+Welcome to my GitHub Repository for my research into the role that multi-dimensional adaptive capacities (AKA RESILIENCE to some people) play in buffering how stress (aka BURDEN) can pile up and result in physiological cost (AKA poor health or allostatic load or multimorbidity). I'm totally new to GitHub but I do want to be sure I track how I code all of this into reality in the NIH ALL OF US RESEARCHER DATABASE. 
+I wouldn't necessarily use my code unless I proclaim it was successful.
+I'm just here exploring, documenting, tracking my progress, and safeguarding my choices so I don't lose them along the lonely route.
